@@ -1,0 +1,5 @@
+dataset/
+*.zip
+*env*
+__pycache__
+*.test.*
